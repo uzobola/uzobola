@@ -21,3 +21,4 @@ Currently documenting hands-on projects aligned with **NIST**, **HIPAA**, and re
 
 </div>
 
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
