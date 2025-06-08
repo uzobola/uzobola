@@ -15,10 +15,11 @@
 Former **Linux Admin & Automation Engineer**, now building **secure, scalable AWS architectures**.  
 Projects on **IAM**, **Zero Trust**, **multi-account setups**, and **DevSecOps pipelines**.  
 Currently documenting hands-on projects aligned with **NIST**, **HIPAA**, and real-world security use cases.
-Connect with me on LinkedIn:  [LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
+
 
 
 
 
 </div>
 
+Connect with me on LinkedIn:  [LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
