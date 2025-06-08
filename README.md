@@ -22,4 +22,9 @@ Currently documenting hands-on projects aligned with **NIST**, **HIPAA**, and re
 
 </div>
 
-Connect with me on LinkedIn:  [LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+
