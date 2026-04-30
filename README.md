@@ -14,7 +14,7 @@
 **AWS Solutions Architect (Security Focus)** | ☁️ *Cloud Security & Compliance*  
 Former **Linux Admin & Automation Engineer**, now building **secure, scalable AWS architectures**.  
 Projects on **IAM**, **Zero Trust**, **multi-account setups**, **compliance automation** and **DevSecOps pipelines**.  
-Currently building hands-on AWS GRC Engineering projects aligned with NIST, CIS, SOC 2, ISO 27001, and real-world cloud security use cases.
+Currently building hands-on AWS GRC Engineering projects aligned with NIST, CIS, SOC 2, ISO 27001, PCI DSS, and real-world cloud security use cases.
 
 
 
