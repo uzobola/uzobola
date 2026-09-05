@@ -1,30 +1,78 @@
 <div align="center">
 
-## Hey there! I'm Uzo 👋  
+# Hi, I'm Uzo 👋
 
----
-[![AWS Certified Security Specialty](https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/bf44899b-4328-459e-abd2-5eefb5d981e6/public_url)  
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/92dc9695-7732-4b7a-873a-771a9ed3a0ff/public_url)  
-[![RHCE](https://img.shields.io/badge/RHCE-Certified-EE0000?logo=redhat&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/dff7ef72-93d5-46b3-9712-909b3bc5a814/public_url)      
-[![RHCSA](https://img.shields.io/badge/RHCSA-Certified-EE0000?logo=redhat&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/YOUR-RHCSA-BADGE-ID)   
-[![Security+](https://img.shields.io/badge/CompTIA-Security+-red?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/e6d893b2-eded-4f6e-a83f-1994a209defc/public_url)
+## Cloud Infrastructure & DevSecOps Engineer
 
+**AWS · Terraform · Kubernetes · Ansible · CI/CD · IAM · Cloud Security**
 
+I build and validate secure AWS infrastructure and delivery platforms through
+independent cloud engineering projects, backed by a production foundation in
+Linux systems administration, Python automation, Jenkins, and operational troubleshooting.
 
-**AWS Solutions Architect (Security Focus)** | ☁️ *Cloud Security & Compliance*  
-Former **Linux Admin & Automation Engineer**, now building **secure, scalable AWS architectures**.  
-Projects on **IAM**, **Zero Trust**, **multi-account setups**, **compliance automation** and **DevSecOps pipelines**.  
-Currently building hands-on AWS GRC Engineering projects aligned with NIST, CIS, SOC 2, ISO 27001, PCI DSS, and real-world cloud security use cases.
-
-
-
-
+[Portfolio](https://uzobolarinwa.com) •
+[LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
 
 </div>
 
 ---
 
-### 🔗 Connect with Me
+## 🚀 Start Here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+### [Private Multi-AZ AWS Infrastructure Automation](https://github.com/uzobola/aws-private-web-infrastructure-automation)
+**Terraform · Ansible · EC2 · ALB · SSM · IAM · CloudWatch**
 
+Private multi-AZ AWS infrastructure with no public EC2 IPs or inbound SSH.
+Terraform provisions the platform; Ansible configures workloads through AWS Systems Manager.
+Includes IAM separation, VPC endpoints, Flow Logs, least-privilege validation, and idempotence testing.
+
+### [Secure AWS ECS Fargate CI/CD Platform](https://github.com/uzobola/ecs-fargate-cicd-pipeline)
+**Terraform · ECS/Fargate · Jenkins · GitHub Actions · Docker · ECR · Checkov · Trivy**
+
+Secure container delivery platform using Jenkins and GitHub Actions, OIDC-based AWS authentication,
+IaC and image scanning, immutable artifacts, deployment validation, and target-tracking autoscaling.
+
+### [AWS EKS Kubernetes CI/CD & GitOps Platform](https://github.com/uzobola/eks-kubernetes-cicd-platform)
+**Terraform · EKS · Kubernetes · Helm · GitHub Actions · Argo CD**
+
+EKS platform with secure CI/CD, Kubernetes autoscaling, GitHub Actions OIDC federation,
+immutable releases, and Argo CD GitOps reconciliation.
+
+---
+
+## 🔐 Security Engineering
+
+### [AWS Non-Human Identity Governance Engine](https://github.com/uzobola/aws-nhi-governance-engine)
+Python-based AWS identity governance with **11 detectors** mapped to the
+OWASP Non-Human Identity Top 10 and NIST SP 800-53, CI gating, exceptions,
+audit evidence, OIDC authentication, and **37 unit tests**.
+
+### [Zero-Trust Serverless Notes API](https://github.com/uzobola/zero-trust-serverless-cdk)
+Serverless AWS authorization architecture using Cognito, API Gateway, Lambda,
+DynamoDB, KMS, route-scoped IAM permissions, principal-bound data access,
+and negative authorization testing.
+
+---
+
+## 🛠 Engineering Focus
+
+- **Cloud Infrastructure:** AWS, Terraform, Ansible, VPC, EC2, ALB, ECS/Fargate, EKS
+- **Containers & Platform:** Docker, Kubernetes, Helm, Argo CD, GitOps
+- **CI/CD:** Jenkins, GitHub Actions, OIDC/STS, Checkov, Trivy
+- **Security & Identity:** AWS IAM, Least Privilege, Workload Identity, RBAC, Zero Trust
+- **Systems & Observability:** Linux, Python, Bash, CloudWatch, Prometheus, Grafana
+
+---
+
+## 🎓 Certifications
+
+[![AWS Certified Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?logo=amazonaws&logoColor=white)](YOUR-CREDLY-URL)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)](YOUR-CREDLY-URL)
+[![RHCE](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?logo=redhat&logoColor=white)](YOUR-CREDLY-URL)
+
+---
+
+## 📫 Connect
+
+- **Portfolio:** https://uzobolarinwa.com
+- **LinkedIn:** https://www.linkedin.com/in/uzobolarinwa
