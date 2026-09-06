@@ -1,18 +1,38 @@
-# Uzo Bolarinwa
+<p align="center">
+  <a href="https://uzobolarinwa.com">
+    <img src="github-profile-hero.png"
+         alt="Uzo Bolarinwa — Cloud Infrastructure and DevSecOps Engineer"
+         width="100%">
+  </a>
+</p>
 
-**Cloud Infrastructure & DevSecOps Engineer**
+<h2 align="center">Cloud Infrastructure &amp; DevSecOps Engineer</h2>
 
-AWS | Terraform | Kubernetes | Ansible | CI/CD | IAM | Cloud Security
+<p align="center">
+  <strong>AWS | Terraform | Kubernetes | Ansible | CI/CD | IAM | Cloud Security</strong>
+</p>
 
-I build and validate secure AWS infrastructure and delivery platforms. My professional background is in Linux systems administration, Python automation, Jenkins-based validation, and operational troubleshooting; my current independent engineering work extends that foundation into Terraform, ECS/Fargate, EKS/Kubernetes, GitOps, cloud identity, and DevSecOps security controls.
+<p align="center">
+  I build and validate secure AWS infrastructure and delivery platforms.
+  My professional background is in Linux systems administration, Python automation,
+  Jenkins-based validation, and operational troubleshooting; my current independent
+  engineering work extends that foundation into Terraform, ECS/Fargate, EKS/Kubernetes,
+  GitOps, cloud identity, and DevSecOps security controls.
+</p>
 
-**Production foundation:** 2,000+ Linux-based point-of-sale systems | 1,200+ regression tests | 50+ releases
+<p align="center">
+  <strong>Production foundation:</strong>
+  2,000+ Linux-based point-of-sale systems | 1,200+ regression tests | 50+ releases
+</p>
 
-[Portfolio](https://uzobolarinwa.com) | [LinkedIn](https://www.linkedin.com/in/uzobolarinwa)
+<p align="center">
+  <a href="https://uzobolarinwa.com">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/uzobolarinwa">LinkedIn</a>
+</p>
 
 ---
 
-## Selected Engineering Work
+<h2 align="center">Selected Engineering Work</h2>
 
 ### [Private Multi-AZ AWS Infrastructure Automation](https://github.com/uzobola/aws-private-web-infrastructure-automation)
 
@@ -44,7 +64,7 @@ Implemented GitHub Actions OIDC federation and an Argo CD GitOps delivery path f
 
 ---
 
-## Security Engineering
+<h2 align="center">Security Engineering</h2>
 
 ### [AWS Non-Human Identity Governance Engine](https://github.com/uzobola/aws-nhi-governance-engine)
 
