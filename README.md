@@ -23,8 +23,15 @@ My production background is in Linux systems administration and automation; my c
 </p>
 
 <p align="center">
-  <a href="https://uzobolarinwa.com">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/uzobolarinwa">LinkedIn</a>
+  <a href="https://uzobolarinwa.com">
+    <img src="https://img.shields.io/badge/Visit_the_live_portfolio-uzobolarinwa.com-2ea44f?style=for-the-badge&labelColor=14532d&logo=googlechrome&logoColor=white"
+         alt="Visit the live portfolio at uzobolarinwa.com">
+  </a>
+
+  <a href="https://www.linkedin.com/in/uzobolarinwa">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Uzo_Bolarinwa-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white"
+         alt="Connect with Uzo Bolarinwa on LinkedIn">
+  </a>
 </p>
 
 ---
@@ -103,7 +110,9 @@ Prevented BOLA/IDOR-style horizontal privilege escalation through authorization 
 
 ---
 
-## Contact
+## Connect
 
-**Portfolio:** https://uzobolarinwa.com  
-**LinkedIn:** https://www.linkedin.com/in/uzobolarinwa
+- 💼 LinkedIn: [linkedin.com/in/uzobolarinwa](https://www.linkedin.com/in/uzobolarinwa)
+- 🌐 Portfolio: [uzobolarinwa.com](https://uzobolarinwa.com)
+- 📧 Email: uzo@uzobolarinwa.com
+
