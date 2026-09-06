@@ -13,11 +13,8 @@
 </p>
 
 <p align="center">
-  I build and validate secure AWS infrastructure and delivery platforms.
-  My professional background is in Linux systems administration, Python automation,
-  Jenkins-based validation, and operational troubleshooting; my current independent
-  engineering work extends that foundation into Terraform, ECS/Fargate, EKS/Kubernetes,
-  GitOps, cloud identity, and DevSecOps security controls.
+I build and validate secure AWS infrastructure and delivery platforms using Terraform, Ansible, containers, Kubernetes, and CI/CD. 
+My production background is in Linux systems administration and automation; my current independent engineering work extends that foundation into AWS infrastructure, GitOps, cloud identity, and DevSecOps security controls.
 </p>
 
 <p align="center">
